@@ -66,6 +66,7 @@ Hey! I'm Nhua Nhua, who came from Mars. Wish you have a nice day and feel comfor
     TEXT (=CLOB)
     
 **A few comments for my environment: Server Oracle 10g XE, client Oracle 12c**
+
 uri: 'oracle://user:password@localhost/XE'
 
 - in model: all tablenames and fieldnames in uppercase (because oracle naming is uppercased, and TABLENAME if not equivalent to "TableName", etc. )
